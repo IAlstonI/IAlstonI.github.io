@@ -1,3 +1,3 @@
 # BASIC HTML
-One sentence
+This a language that teaches you the fundamentals of code.
 
