@@ -1,14 +1,39 @@
-alert("Lets play 'What is my name'");
+let User = prompt("Hello what's your name?");
 
-var x;
-let nameEntered = prompt("Is my name Alston? Yes or No?");
-alert("yep that's my name.");
+alert("Hi there, " + User + " my name's Alston.");
 
-let namenotEntered = prompt("Ok, then what is my name?");
+x = prompt("Do you like math?");
+alert("Okay.")
+function askQuestion() {
+    let answer = true;
+    while (answer) {
+        answer = prompt("What's 3x3?");
+        if (answer == 9) {
+            alert("That's correct.");
+            answer = false;
+        }
+        else if 
+            (answer > 9){
+            alert("Your number is too high.");
 
-let nameSeriously = prompt("For real.");
+        }
+            else {
+                alert("That's wrong.");
+            }
 
-let nameUnknown =  prompt ("So this is what my name is?");
+        //alert("That's also wrong.");
+        //answer = true;
+
+    }
+}
+
+
+askQuestion();
+//let theyGuess = prompt("Do you like math?")
+//if ()
+//alert("")
+
+
 
 
 //alert("I like that form too!")
