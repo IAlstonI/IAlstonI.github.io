@@ -29,6 +29,8 @@ function askQuestion() {
 
 
 askQuestion();
+
+
 //let theyGuess = prompt("Do you like math?")
 //if ()
 //alert("")
