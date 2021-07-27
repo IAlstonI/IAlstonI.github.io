@@ -37,3 +37,9 @@ there are several others that are specifically used to control the appearance of
 DIFFERENT EVENT | TYPES —————-|—— UIEVENTS | Occur when a user interacts with the browser’s user interface (UI) rather than the web page EVENT DESCRIPTION.
 load | Web page has finished loading. unload | Web page is unloading (usually because a new page was requested). error | 
 Browser encounters a JavaScript error or an asset doesn’t exist. resize| Browser window has been resized. scroll | User has scrolled up or down the page.
+
+## TRADITIONAL DOM EVENT HANDLERS :you can only attach one function to each event handler. element .onevent =functionName() ; function checkUsername() { // code to check the length of username}
+  
+## EVENT LISTENERS :Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers. Events are the browser’s way of indicating when something has happened (such as when a page has finished loading or a button has been clicked).
+When an event occurs on an element, it can trigger a JavaScript function. When this function then changes the web page in some way, it feels interactive because
+it has responded to the user.
