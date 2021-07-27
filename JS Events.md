@@ -1,6 +1,6 @@
 # Chapter 7: “Forms”
 
-**1.ADDING TEXT:**
+## **1.ADDING TEXT:**
 There are several types of form controls that you can use to collect information from visitors to your site :
 Text input (single-line) : <input type="text" name=" " maxlength = "" size="" > When the type attribute has a value of text, it creates a singleline ,
 name When users enterinformation into a form,
