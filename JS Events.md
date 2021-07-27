@@ -2,7 +2,7 @@
 
 ## **1.ADDING TEXT:**
 There are several types of form controls that you can use to collect information from visitors to your site :
-Text input (single-line) : <input type="text" name=" " maxlength = "" size="" > When the type attribute has a value of text, it creates a singleline ,
+Text input (single-line) When the type attribute has a value of text, it creates a singleline,
 name When users enterinformation into a form,
 the server needs to know which form control each piece of data was entered into 
 maxlengthIts value is the number of characters they may enter. 
@@ -19,7 +19,7 @@ Image buttons :type="image"
 File upload : type="file" This type of input creates a box that looks like a text input followed by a browse button.
 
 ## 5. Button and hidden
-Button :The <button> element was introduced to allow users more control over how their buttons appear, and to allow other elements to appear inside the button.
+Button :The element was introduced to allow users more control over how their buttons appear, and to allow other elements to appear inside the button.
   
 ## 6. Labelling Form Controls:** element can be used in two ways. It can:
 Wrap around both the text description and the form input.
