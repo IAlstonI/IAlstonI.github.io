@@ -26,8 +26,8 @@ Wrap around both the text description and the form input.
 Be kept separate from the form control and use the for attribute to indicate which form control it is a label for .
   
 ## 7. Grouping Form Elements**
-You can group related form controls together inside the <fieldset> element. This is particularly helpful for longer forms.
-The <legend> element can come directly after the opening <fieldset> tag and contains a caption which helps identify the purpose of that group of form controls.
+You can group related form controls together inside the fieldset element. This is particularly helpful for longer forms.
+The legend element can come directly after the opening fieldset tag and contains a caption which helps identify the purpose of that group of form controls.
 
 ## Chapter 14: “Lists, Tables & Forms”
 In addition to the CSS properties covered in other chapters which work with the contents of all elements,
