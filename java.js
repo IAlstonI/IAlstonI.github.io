@@ -2,7 +2,7 @@ let User = prompt("Hello what's your name?");
 
 alert("Hi there, " + User + " my name's Alston.");
 
-x = prompt("Do you want to play a game?");
+x = prompt("Do you like math?");
 alert("Okay.")
 function askQuestion() {
     let answer = true;
